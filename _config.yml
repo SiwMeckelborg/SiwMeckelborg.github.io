@@ -1,2 +1,5 @@
-name: Hank Quinlan, Horrible Cop
+name: Siw Meckelborg
 markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
